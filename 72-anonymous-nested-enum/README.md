@@ -5,7 +5,7 @@
 ## Parte 1: classe anonima
 
 Si osservi la classe Function, che modella una singola funzione con un solo input ed un solo output di tipo arbitrario.
-Si implementi il metodo `identity()`, che deve restituire la funzione identià
+Si implementi il metodo `identity()`, che deve restituire la funzione identità
 (ossia, che restituisce l'input passato in ingresso senza modifica alcuna)
 tramite una classe anonima.
 Si osservi `TestFunctionalLibrary` per trovare esempi di classi anonime che implementano function.
